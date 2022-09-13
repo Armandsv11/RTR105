@@ -24,3 +24,5 @@ rmdir = delete empty directories.
 rm = delete directory and contents within (no undo).  
 touch = create new blank file.  
 locate -i school*note = search for a file case insensitive.  
+  
+## https://www.tutorialspoint.com/unix/unix-directories.htm
