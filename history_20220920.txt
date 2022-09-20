@@ -1,57 +1,51 @@
     1  VirtualBox --startvm XP
     2  quartus
-    3  git copy https://github.com/Armandsv11/RTR105
-    4  PWD
-    5  pwd
-    6  git clone  https://github.com/Armandsv11/RTR105
-    7  ls
-    8  nano
-    9  where is git upload
-   10  whereis git upload
-   11  pws
-   12  pwd
-   13  cd RTR105
-   14  ls -lt
-   15  ls -lt ../
-   16  pwd
-   17  ls -lt
-   18  mv ../git\ upload git-upload
+    3  echo
+    4  echo %0
+    5  $bash
+    6  special_variables_test.bash
+    7  echo %PATH
+    8  cd RTR105
+    9  echo $PATH
+   10  special_variables_test.bash
+   11  special_variables_test.SH
+   12  special_variables_test.sh
+   13  special_variables_test.bash spellinitian
+   14  special_variables_test.bash arg1 arg2
+   15  ls -lt
+   16  nano special_variables_test.bsh
+   17  nano special_variables_test.bash
+   18  special_variables_test.sh
    19  ls -lt
-   20  chmod 764 git-upload 
+   20  chmod 764 special_variables_test.sh
    21  ls -lt
-   22  nano git-upload 
-   23  git-upload
-   24  history > history_20220920.txt
-   25  ls -lt
-   26  ./git-upload 
-   27  pwd
-   28  rm -rf RTR105/
-   29  LS -LT
-   30  ls -lt
-   31  ../
-   32  cd
-   33  pwd
-   34  rm -rf RTR105/
-   35  ls -lt
-   36  history
-   37  /grep clone
-   38  history /grep clone
-   39  history | grep clone
-   40  ls -lt
-   41  pwd
-   42  git clone  https://github.com/Armandsv11/RTR105
-   43  ls -lt
-   44  cd RTR105
-   45  git upload
-   46  echo $PATH
-   47  PATH=$PATH
-   48  ECHO $PATH
-   49  echo $PATH
-   50  PATH=$PATH../
-   51  echo $PATH
-   52  GIT-
-   53  git-
-   54  git--
-   55  git-
-   56  ls -lt
-   57  history > history_20220920.txt
+   22  git-upload
+   23  nano git-upload
+   24  spacial_variables_tesst.bash
+   25  git-upload
+   26  ls -lt
+   27  nano special_variables_test.bash
+   28* 
+   29  PATH=$PATHP:./
+   30  PATH=$PATH:./
+   31  special_variables_test.
+   32  special_variables_test.bash
+   33  special_variables_test.bash h j k
+   34  -ls lt
+   35  ls
+   36  ls -lt
+   37  history
+   38  ls -lt
+   39  echo $PATH
+   40  cd
+   41  PATH=/usr/local/anaconda3/bin:/opt/intelFPGA_lite/17.1/quartus/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/user/.dotnet/tools
+   42  ls -lt
+   43  PATH=$PATH:./
+   44  ls -lt
+   45  echo $PATH
+   46  ls -lt
+   47  cd RTR105/
+   48  ls -lt
+   49  nano  git-upload 
+   50  git-upload 05
+   51  history > history_20220920.txt 
