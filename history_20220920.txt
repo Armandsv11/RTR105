@@ -22,3 +22,36 @@
    22  nano git-upload 
    23  git-upload
    24  history > history_20220920.txt
+   25  ls -lt
+   26  ./git-upload 
+   27  pwd
+   28  rm -rf RTR105/
+   29  LS -LT
+   30  ls -lt
+   31  ../
+   32  cd
+   33  pwd
+   34  rm -rf RTR105/
+   35  ls -lt
+   36  history
+   37  /grep clone
+   38  history /grep clone
+   39  history | grep clone
+   40  ls -lt
+   41  pwd
+   42  git clone  https://github.com/Armandsv11/RTR105
+   43  ls -lt
+   44  cd RTR105
+   45  git upload
+   46  echo $PATH
+   47  PATH=$PATH
+   48  ECHO $PATH
+   49  echo $PATH
+   50  PATH=$PATH../
+   51  echo $PATH
+   52  GIT-
+   53  git-
+   54  git--
+   55  git-
+   56  ls -lt
+   57  history > history_20220920.txt

@@ -2,5 +2,5 @@
 git add . #komanda "uzmanāmo" mapju pievienošanai
 git config --global user.name Armandsv11
 git config --global user.email armandsv11@gmail.com
-git commit -m "Class_04a"
+git commit -m "Class_$1"
 git push origin main
