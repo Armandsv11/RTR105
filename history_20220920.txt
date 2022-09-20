@@ -1,0 +1,24 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git copy https://github.com/Armandsv11/RTR105
+    4  PWD
+    5  pwd
+    6  git clone  https://github.com/Armandsv11/RTR105
+    7  ls
+    8  nano
+    9  where is git upload
+   10  whereis git upload
+   11  pws
+   12  pwd
+   13  cd RTR105
+   14  ls -lt
+   15  ls -lt ../
+   16  pwd
+   17  ls -lt
+   18  mv ../git\ upload git-upload
+   19  ls -lt
+   20  chmod 764 git-upload 
+   21  ls -lt
+   22  nano git-upload 
+   23  git-upload
+   24  history > history_20220920.txt
