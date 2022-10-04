@@ -62,3 +62,4 @@ Format Specifier: %lf
   \v - vertikālais tabs  
   \b - pārceļ kursoru par vienu pozīciju atpakaļ  
   
+A function is a C language construct that associates a compound statement (the function body) with an identifier (the function name). Every C program begins execution from the main function, which either terminates, or invokes other, user-defined or library functions.   
