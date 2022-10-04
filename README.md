@@ -48,3 +48,11 @@ A Double data type in C is used to store decimal numbers (numbers with floating 
 Format Specifier: %lf  
   
   
+      Derived data type : These data types are defined by user itself. Like, defining a class in C++ or a structure. These include Arrays, Structures, Class, Union, Enumeration, Pointers etc.  
+      
+        
+        Pointers are used for storing address of variables.  
+ 
+ Array is used to contain similar type of data.  
+ 	structure is used to group items of possibly different types into a single type.  
+  
