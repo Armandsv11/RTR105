@@ -28,4 +28,6 @@ locate -i school*note = search for a file case insensitive.
 ## https://www.tutorialspoint.com/unix/unix-directories.htm
   
   #funkcija datu ievadei - scanf
+    
   #funkcija datu attēlošanai printf
+    Each variable in C has an associated data type. 
