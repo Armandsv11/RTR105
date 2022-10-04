@@ -56,3 +56,9 @@ Format Specifier: %lf
  Array is used to contain similar type of data.  
  	structure is used to group items of possibly different types into a single type.  
   
+  ## backslashes  
+  \n - pārceļ kursoru jaunajā rindā  
+  \t - pārceļ kursoru uz tuvāko tabulācija pozīciju  
+  \v - vertikālais tabs  
+  \b - pārceļ kursoru par vienu pozīciju atpakaļ  
+  
