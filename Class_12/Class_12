@@ -1,0 +1,21 @@
+#include<stdio.h>
+//cikla operatori
+//while - "kamēr"
+// do while - "darīt kamēr"
+// for - "līdz"
+
+// while(izteiksme):
+// while(izteiksme)
+// :
+// while (izteiksme){;;;}
+// while(izteiksme)
+// {
+// :
+// ;
+// }
+// aiz while () iekavām esošā darbība (vai darbības) tiks izpildītas
+// tikmēr kamēr iekavās () izteiksmes rezultāts ir "true"
+// "true" izteiksmes rezultāta bitu secībā ir vismaz viens 1, 
+// "false" vai "absolūtā nulle", visi biti ar 0 stāvokli.
+// NB! bet šīs darbības tiks izpildītas vismaz vienu reizi (bez nosacījuma pārbaudes kas ir pēc tam)
+
